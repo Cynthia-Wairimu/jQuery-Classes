@@ -1,11 +1,16 @@
 .green-background {
-    background-color: green;
-  }
+  background-color: green;
+}
 
-  .yellow-background {
-    background-color: yellow;
-  }
+.yellow-background {
+  background-color: yellow;
+}
 
-  .red-background {
-    background-color: red;
-  }
+.red-background {
+  background-color: red;
+}
+
+.darkmode {
+  background-color: black;
+  color: white;
+}

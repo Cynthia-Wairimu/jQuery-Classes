@@ -14,4 +14,10 @@
           $("body").removeClass();
           $("body").addClass("red-background");
         });
-      });
+
+    });
+
+   function myFunction() {
+   let element = document.body;
+   element.classList.toggle("darkmode");
+}
